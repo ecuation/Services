@@ -92,6 +92,8 @@ Route::group(['prefix' => Config::get('app.locale_prefix')], function ()
 
 });
 
+
+//pruebas API con vue.js
 get('api/users', function()
 {
 	$users = App\User::all()->except(Auth::id());;
