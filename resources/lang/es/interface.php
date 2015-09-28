@@ -1,0 +1,25 @@
+<?php
+
+return [
+    'login' 				=> 'Acceder',
+	'logout'				=> 'Salir',
+    'sign-in'       		=> 'Registrarme',
+    'password' 				=> 'Contraseña',
+    'email' 				=> 'Email',
+    'remember-me' 			=> 'Recordarme en este equipo',
+    'welcome'				=> 'Bienvenido, estás en la página principal',
+    'dashboard' 			=> 'Estas en tu dashboard',
+    'confirm-success' 		=> 'Bienvenido a Kifula.com',
+    'confirm'               => 'Confirmar',
+	'confirmed'               => 'Confirmado',
+    'hello'                 => 'Hola',
+    'forgot-passsword'      => 'Has olvidado tu contraseña?',
+    'submit'                => 'Enviar',
+    'reset-password'        => 'Resetear password',
+    'reset-confirmation'    => 'Tu password será resetado',
+	'edit'                  => 'Editar',
+	'name'                  => 'Nombre',
+	'state'                 => 'Estado',
+	'view'                  => 'Ver',
+	'remove'                => 'Eliminar',
+];

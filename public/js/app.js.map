@@ -1,0 +1,1 @@
+{"version":3,"sources":["app.js"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"app.js","sourcesContent":["\nvar vue = require('vue');\n\nnew Vue({\n    el: '#users',\n\n    data:{\n        active: true\n    },\n\n    filters: {\n        revere: require('./filters/reverse')\n    }\n});\n"],"sourceRoot":"/source/"}
